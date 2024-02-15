@@ -42,9 +42,6 @@ BURGESS-WIN7-PC
 
  theodore.burgess
 
-6. What type of malware(s) was the host infected with?
-
-trojan.emotet/deepscan (family labels- emotet,deepscan,marte)
 
 PCAP-2
 
@@ -67,10 +64,6 @@ G-UNDERWOOD-PC
 5. What is the user account name from the infected Windows host?
 
 geneva.underwood
-
-6. What type of malware(s) was the host infected with?
-
-trojan.ursnif/aivf (family labels- ursnif,aivf,aovpj)
 
 PCAP-3
 
